@@ -1,7 +1,7 @@
 # hacking, sigint, pentesting, CTFs, ...
 
-- [CTF write-ups](https://github.com/ctfs) - Write-ups of CTFs sorted by year
-- [CTF write-ups including CCC](https://github.com/sixstars/ctf) - Write-ups of CTFs including the ones from Chaos Communication Congress
+- [**C**TF write-ups](https://github.com/ctfs) - Write-ups of CTFs sorted by year
+- [**C**TF write-ups including CCC](https://github.com/sixstars/ctf) - Write-ups of CTFs including the ones from Chaos Communication Congress
 - [go**B**uster](https://github.com/OJ/gobuster) - Directory/file & DNS busting tool written in Go
 - [hack the **M**edia](https://github.com/nemild/hack-the-media) - This repo collects examples of intentional and unintentional hacks of media sources
 - [**H**TML5 security cheatsheet](https://github.com/cure53/H5SC) - HTML5 security cheatsheet for [https://html5sec.org/](https://html5sec.org/)
